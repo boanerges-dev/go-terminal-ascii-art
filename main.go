@@ -20,7 +20,7 @@ func main() {
 		return
 	}
 
-    content, err := os.ReadFile("standard.txt")
+    content, err := os.ReadFile("thinkertoy.txt")
 
 	if err != nil {
 		fmt.Println("Error reading file:", err)
