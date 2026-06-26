@@ -268,4 +268,4 @@ Feel free to use, modify, and distribute it for personal or commercial projects.
 
 ## Author
 
-Developed in Go as a command-line ASCII art renderer for educational purposes.
+Developed in Go as a command-line ASCII art renderer for educational purposes.# go-terminal-ascii-art
